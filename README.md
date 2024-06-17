@@ -1,6 +1,6 @@
 ## Skills
 
-### Front-End Frameworks
+### Full-Stack Frameworks
 
 <p align='left'>
 <!-- React -->
@@ -9,12 +9,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
 <!-- NextJs -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextJs" width="40" height="40"/>
-</p>
-
-### Back-End Frameworks
-
-<p align='left'>
-<!-- NestJS -->
+  <!-- NestJS -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
 <!-- ExpressJS -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40" style="background-color: white;"/>
@@ -39,6 +34,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original-wordmark.svg" alt="discordJs" width="40" height="40"/>
 <!-- Bootstrap -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<!-- Cypress -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/>
 </p>
 
 ### Databases & Tools
@@ -52,8 +49,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <!-- Vite -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="40" height="40"/>
-<!-- Cypress -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" alt="cypress" width="40" height="40"/>
 </p>
 
 ### Languages
