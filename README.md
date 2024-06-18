@@ -3,8 +3,7 @@
 - 📈 Speculative stock trader
 - 🌱 Passionate about generative AI applications
 - 🚬 Enthusiast of roll-up cigarettes and unique flavors
-- 🎶 Lover of electronic music, especially Psychedelic trance
-- 🖥️ Always tracking the latest trends in the software industry
+- 🎶 Lover of EDM, especially Psychedelic trance
 
 ## Skills
 
