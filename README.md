@@ -5,7 +5,7 @@
 - 🚬 Enthusiast of roll-up cigarettes and unique flavors
 - 🎶 Lover of electronic music, especially Psychedelic trance
 - 🖥️ Always tracking the latest trends in the software industry
-- 
+
 ## Skills
 
 ### Full-Stack Frameworks
