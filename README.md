@@ -1,3 +1,11 @@
+## Who I Am
+
+- 📈 Speculative stock trader
+- 🌱 Passionate about generative AI applications
+- 🚬 Enthusiast of roll-up cigarettes and unique flavors
+- 🎶 Lover of electronic music, especially Psychedelic trance
+- 🖥️ Always tracking the latest trends in the software industry
+- 
 ## Skills
 
 ### Full-Stack Frameworks
@@ -47,6 +55,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
 <!-- Docker -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<!-- K8s -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="40" height="40"/>
 <!-- Vite -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" alt="vite" width="40" height="40"/>
 </p>
