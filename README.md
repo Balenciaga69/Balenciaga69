@@ -1,9 +1,6 @@
-## Who I Am
+## Tags
 
-- 📈 Speculative stock trader
-- 🌱 Passionate about generative AI applications
-- 🚬 Enthusiast of roll-up cigarettes and unique flavors
-- 🎶 Lover of EDM, especially Psychedelic trance
+📉Speculator 🤖GenerativeAI 🎶PsyTrance 💻ComputerScience
 
 ## Skills
 
